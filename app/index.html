@@ -1,13 +1,22 @@
 <!doctype html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="floorForceApp">
   <head>
     <meta charset="utf-8">
     <title>Floor Force Web</title>
-    <!-- <script src="lib/angular/angular.js"></script> -->
+    <link rel="stylesheet" href="floorForceApp.css" />
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
+    <!-- <script src="floorForceApp.js" ></script> -->
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="header-bar/header-bar.module.js"></script>
+    <script src="header-bar/header-bar.component.js"></script>
   </head>
   <body>
 
-    <p>Nothing here {{'yet' + '!'}}</p>
+    <header-bar></header-bar>
+
+    <div ng-view></div>
 
   </body>
 </html>
