@@ -1,3 +1,5 @@
 'use strict';
 
-angular.module('checkoutPage', []);
+angular.module('checkoutPage', [
+    'ngRoute'
+]);

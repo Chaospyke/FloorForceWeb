@@ -1,5 +1,11 @@
 'use strict';
 
 angular.module('floorForceApp', [
-  'headerBar'
+  'headerBar',
+  'ngRoute',
+  'cabinetPage',
+  'checkoutPage',
+  'floorPage',
+  'homePage',
+  'wallPage'
 ]);

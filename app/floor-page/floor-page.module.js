@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('floorPage', []);
+angular.module('floorPage', ['ngRoute']);
