@@ -1,0 +1,137 @@
+[
+	{
+		"itemNo":10010,
+		"imgUrl":"",
+		"itemName":"Stone Floor",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":49.99,
+		"itemType":"floor",
+		"homeDisp":true
+	},
+	{
+		"itemNo":25481,
+		"imgUrl":"",
+		"itemName":"Marble Floor",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":69.99,
+		"itemType":"floor",
+		"homeDisp":false
+	},
+	{
+		"itemNo":36958,
+		"imgUrl":"",
+		"itemName":"Tile Floor",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":39.99,
+		"itemType":"floor",
+		"homeDisp":false
+	},
+	{
+		"itemNo":15786,
+		"imgUrl":"",
+		"itemName":"Oak Floor",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":59.99,
+		"itemType":"floor",
+		"homeDisp":true
+	},
+	{
+		"itemNo":28574,
+		"imgUrl":"",
+		"itemName":"Mahogany Floor",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":59.99,
+		"itemType":"floor",
+		"homeDisp":false
+	},
+	{
+		"itemNo":36857,
+		"imgUrl":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemName":"Stone Cabinet",
+		"itemDesc":"",
+		"itemPrice":59.99,
+		"itemType":"cabinet",
+		"homeDisp":false
+	},
+	{
+		"itemNo":32147,
+		"imgUrl":"",
+		"itemName":"Oak Cabinet",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":49.99,
+		"itemType":"cabinet",
+		"homeDisp":false
+	},
+	{
+		"itemNo":12584,
+		"imgUrl":"",
+		"itemName":"Redwood Cabinet",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":79.99,
+		"itemType":"cabinet",
+		"homeDisp":false
+	},
+	{
+		"itemNo":96857,
+		"imgUrl":"",
+		"itemName":"Ivory Cabinet",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":49.99,
+		"itemType":"cabinet",
+		"homeDisp":false
+	},
+	{
+		"itemNo":13275,
+		"imgUrl":"",
+		"itemName":"Maple Cabinet",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":49.99,
+		"itemType":"cabinet",
+		"homeDisp":true
+	},
+	{
+		"itemNo":56978,
+		"imgUrl":"",
+		"itemName":"Oak Wall",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":79.99,
+		"itemType":"wall",
+		"homeDisp":false
+	},
+	{
+		"itemNo":63527,
+		"imgUrl":"",
+		"itemName":"Mahogany Wall",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":79.99,
+		"itemType":"wall",
+		"homeDisp":true
+	},
+	{
+		"itemNo":85647,
+		"imgUrl":"",
+		"itemName":"Stone Wall",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":99.99,
+		"itemType":"wall",
+		"homeDisp":false
+	},
+	{
+		"itemNo":25196,
+		"imgUrl":"",
+		"itemName":"Wonder Wall",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":129.99,
+		"itemType":"wall",
+		"homeDisp":false
+	},
+	{
+		"itemNo":14793,
+		"imgUrl":"",
+		"itemName":"Steel Wall",
+		"itemDesc":"Suspendisse eget lacus arcu. Cras egestas ex nec dolor sodales bibendum. Fusce bibendum in tortor non venenatis. Pellentesque at semper risus. Nulla sed dui non velit elementum hendrerit. Quisque quis rhoncus diam. Quisque ac nisl eu libero condimentum iaculis.",
+		"itemPrice":99.99,
+		"itemType":"wall",
+		"homeDisp":true
+	}
+]

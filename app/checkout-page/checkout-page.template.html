@@ -1,0 +1,40 @@
+<div>
+	<div style="height:30em;">
+		<div class="container-fluid h-100">
+			<div class="row h-100">
+				<div class="col-sm-4 h-100 ">
+					<div class="row prodImage h-100"></div>
+				</div>
+				<div class="col-sm-8 h-100 ">
+					<div class="row h-100">
+						<div class="checkOutTitleDiv titleDiv">Checkout</div>
+						<div class="checkOutCartDiv paddingZero">
+							<div ng-repeat="item in cart" class="row marginAuto cartItemRow">
+								<div class="itemNameDiv col-sm-5">{{item.itemName}}</div>
+								<div class="itemPriceDiv col-sm-3">{{item.itemPrice|currency}}</div>
+								<div class="itemQuantityDiv col-sm-4">
+									<div class="row">
+										<div class="col-sm-4"></div>
+										<div class="col-sm-4 itemQuantity">{{item.count}}</div>
+										<div class="col-sm-4"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="checkOutButtonDiv paddingZero">
+							<div class="row h-100 marginAuto">
+								<div class="col-sm-4 cartTotalDiv">
+									<div class="">Total:{{total|currency}}</div>
+								</div>
+								<div class="col-sm-4"></div>
+								<div class="col-sm-4">
+									<input class="checkOutButton btn btn-success" ng-click="checkOut()" type="button"value="Check Out"/>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</div>
