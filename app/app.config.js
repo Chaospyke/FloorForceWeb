@@ -35,12 +35,17 @@ angular.
     return{
       addItems:function(item,count){
         let exist =false;
+        let newCount = $("#input-"+item.itemNo).val();
+
+        if(newCount && newCount>0){
+          count = newCount;
+        }
 
         $.each(addedItems,function(i,v){
           if(v.itemNo === item.itemNo){
             exist = true;
-            v.count = v.count + count;
-            total = total + (item.itemPrice*count);
+            v.count = parseInt(v.count) + parseInt(count);
+            total = total + (item.itemPrice*v.count);
           }
         });
 
@@ -79,6 +84,7 @@ angular.
         addedItems = [];
         
         console.log("Check out successful.");
+        console.log("Total:",total,"Cart:",addedItems);
         alert("Checkout Successful!");
       }
     };

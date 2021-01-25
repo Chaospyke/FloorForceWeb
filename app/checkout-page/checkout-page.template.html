@@ -14,9 +14,17 @@
 								<div class="itemPriceDiv col-sm-3">{{item.itemPrice|currency}}</div>
 								<div class="itemQuantityDiv col-sm-4">
 									<div class="row">
-										<div class="col-sm-4"></div>
+										<div class="col-sm-4">
+											<span class="material-icons md-36" ng-click="increaseCount(item)">
+												add_circle
+											</span>
+										</div>
 										<div class="col-sm-4 itemQuantity">{{item.count}}</div>
-										<div class="col-sm-4"></div>
+										<div class="col-sm-4">
+											<span class="material-icons md-36" ng-click="decreaseCount(item)">
+												remove_circle
+											</span>
+										</div>
 									</div>
 								</div>
 							</div>
